@@ -1,0 +1,11 @@
+# Сборки публикуются только в релизах, не в репозитории
+*.apk
+*.aab
+*.exe
+*.zip
+*.jks
+*.keystore
+*.properties
+secrets*
+*.pem
+*.key
