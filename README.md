@@ -14,9 +14,9 @@
 
 | Платформа | Версия | Файл | Требования |
 |---|---|---|---|
-| **Android** | 1.3.0 | [**KARTOVED.apk**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED.apk) · 13,7 МБ | Android 8.0+ |
-| **Windows** — установщик | 1.3.1 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 125 МБ | Windows 10/11, 64 бит |
-| **Windows** — без установки | 1.3.1 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 МБ | Windows 10/11, 64 бит |
+| **Android** | 1.4.0 | [**KARTOVED.apk**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED.apk) · 14,0 МБ | Android 8.0+ |
+| **Windows** — установщик | 1.4.0 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 127 МБ | Windows 10/11, 64 бит |
+| **Windows** — без установки | 1.4.0 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 МБ | Windows 10/11, 64 бит |
 
 Все версии и контрольные суммы — в разделе [Релизы](https://github.com/ignisdomini/kartoved/releases). Те же файлы — на сайте [kartoved.ru/app.php](https://kartoved.ru/app.php).
 
@@ -43,6 +43,8 @@
 **Снимки Sentinel-2.** Естественные и ложные цвета, NDVI, NDRE, влажность почвы с 2017 года. По растительности видны следы засыпанных рвов, валов, дорог и фундаментов. Снимки обрабатываются на телефоне, ключи не нужны.
 
 **Приборы.** GPS Компас (GPS, ГЛОНАСС, Galileo, BeiDou на астролябии и оценка точности), погода на 10 дней с подсказками для поля, АРХЕОСКАН, APEX DSP.
+
+**Новое в 1.4.** «Архив здесь» — какие карты архива есть на этом месте (на главной, в каталоге и подсказкой в пути); обмен метками, маршрутами и своими картами с компьютером и другим телефоном — файлом или по Wi-Fi; обновление прямо из приложения; АРХЕОСКАН по спектру Sentinel-2; основа «Спутник Google»; ответ на сообщение в чате.
 
 **В поле.** Навигация к точке, GPS-трекер с погашенным экраном, метки с фото, обмен GPX / KML / KMZ, справочник «Монеты России», чат и доска объявлений.
 

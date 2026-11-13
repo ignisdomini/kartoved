@@ -1,5 +1,27 @@
 # История версий · Changelog
 
+## КАРТОВЕДЪ 1.4.0 (Android и Windows) · 13.11.2026
+
+**RU**
+- «Архив здесь»: какие карты архива есть на этом месте — плашкой на главной, разделом «В этом месте» в каталоге и подсказкой «Вы на скачанном листе» при записи маршрута или навигации. Считается на устройстве, координаты никуда не уходят.
+- Обмен между устройствами: метки с фото, маршруты и свои карты — телефон ↔ компьютер и телефон ↔ телефон, файлом .kvpack или по Wi-Fi по одноразовому коду, в шифре.
+- Android: обновление прямо из приложения с сайта со сверкой контрольной суммы и подписи; кнопка «Убрать карту» над зумом; привязка своей картинки по точкам.
+- АРХЕОСКАН по спектру Sentinel-2 за несколько лет (включается в настройках скана).
+- Основа «Спутник Google».
+- Чат: ответ на сообщение с цитатой; в Android — вставка из буфера и смайлы.
+- Экстренные сообщения проекта и «День поддержки» 1-го числа.
+- Windows: разделы открываются после входа, как в телефоне; обновление сверяет контрольную сумму установщика; новое лицензионное соглашение в установщике.
+
+**EN**
+- "Archive here": which archive maps cover this place — a chip on the home map, an "At this place" catalogue section and an "You are on a downloaded sheet" hint while recording a track or navigating. Computed on the device; coordinates never leave it.
+- Device exchange: waypoints with photos, tracks and own maps — phone ↔ PC and phone ↔ phone, as a .kvpack file or over Wi-Fi with a one-time code, encrypted.
+- Android: in-app updates from the website with checksum and signature check; "Hide map" button above zoom; georeferencing your own image by points.
+- ARCHEOSCAN with multi-year Sentinel-2 spectra (optional, in scan settings).
+- "Google satellite" base map.
+- Chat: reply with a quote; on Android — paste from clipboard and emoji.
+- Project emergency notices and a monthly "Support day".
+- Windows: sections open after signing in, as on the phone; updates verify the installer checksum; new license agreement in the installer.
+
 ## Android 1.3.0 · 26.09.2026
 
 **RU**

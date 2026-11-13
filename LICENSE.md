@@ -10,9 +10,10 @@
 
 Правообладатель предоставляет вам бесплатную, неисключительную, непередаваемую и отзывную лицензию **только на использование** Программы:
 - установить Программу, полученную из официального источника, на свои устройства;
-- запускать её и пользоваться её функциями в личных некоммерческих целях.
+- запускать её и пользоваться её функциями в личных некоммерческих целях;
+- переносить свои метки, маршруты и собственные карты между устройствами встроенным «Обменом». Архивные карты проекта в обмен не входят — каждый скачивает их сам после входа.
 
-Официальные источники: сайт kartoved.ru, раздел «Релизы» репозитория github.com/ignisdomini/kartoved и карточки приложения, которые опубликовал сам правообладатель.
+Официальные источники: сайт kartoved.ru, раздел «Релизы» репозитория github.com/ignisdomini/kartoved, страница sourceforge.net/projects/kartoved и карточки приложения, которые опубликовал сам правообладатель.
 
 ## 2. Что запрещено
 
@@ -60,9 +61,10 @@ This is not an open-source license. KARTOVED for Android and Windows (the "Softw
 
 You are granted a free, non-exclusive, non-transferable, revocable license **to use** the Software only:
 - install the Software obtained from an official source on your own devices;
-- run it and use its features for personal, non-commercial purposes.
+- run it and use its features for personal, non-commercial purposes;
+- move your own waypoints, tracks and own maps between devices with the built-in Exchange. The project's archive maps are not part of the exchange — everyone downloads them after signing in.
 
-Official sources: kartoved.ru, the Releases section of github.com/ignisdomini/kartoved, and app store listings published by the copyright holder.
+Official sources: kartoved.ru, the Releases section of github.com/ignisdomini/kartoved, sourceforge.net/projects/kartoved, and app store listings published by the copyright holder.
 
 ## 2. Restrictions
 
