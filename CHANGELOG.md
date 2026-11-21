@@ -1,5 +1,23 @@
 # История версий · Changelog
 
+## КАРТОВЕДЪ 1.5.0 (Android и Windows) · 22.11.2026
+
+**RU**
+- Организации поисковиков: вступление в ОО «Метеорит-Поиск Россия» и ОО «Федерация Приборного Поиска России» из приложения — анкета, фото для удостоверения (в Windows — и с веб-камеры), заявки и реквизиты, Устав. Членский билет во весь экран (в Windows — отдельным окном), работает без сети.
+- Заявление о находке по бланку организации: фото, описание, координаты, дата; PDF, DOC, печать, отправка по почте; архив заявлений по датам и просмотр на экране.
+- Журнал находок: фото, точка, дата и время, материал и глубина; заявление из отмеченных записей; слой «Находки» на главной карте; выгрузка в GPX, KML, KMZ с фото, GeoJSON и CSV.
+- Поиск места по названию (деревни, урочища, реки, улицы), координатам в любом виде и ссылкам Яндекс/Google/OSM; свои метки и находки — без сети.
+- «Забыли пароль?» — новый пароль по ссылке из письма; письмо о регистрации.
+- Android: главная карта не теряет место при переходах по меню и после перезапуска. Windows: поиск места — Ctrl+F.
+
+**EN**
+- Prospecting organizations: join "Meteorite Search Russia" and "Instrument Search Federation of Russia" from the app — form, ID photo (also from the webcam on Windows), orders and payment details, charter. Membership card full screen (a separate window on Windows), works offline.
+- Find report on the organization's form: photos, description, coordinates, date; PDF, DOC, print, e-mail; archive by date with on-screen preview.
+- Finds log: photo, location, date and time, material and depth; a report from selected entries; "Finds" layer on the home map; export to GPX, KML, KMZ with photos, GeoJSON and CSV.
+- Place search by name (villages, tracts, rivers, streets), coordinates in any format and Yandex/Google/OSM links; own waypoints and finds work offline.
+- "Forgot password?" via an e-mailed link; welcome e-mail on sign-up.
+- Android: the home map keeps its position across menus and restarts. Windows: place search with Ctrl+F.
+
 ## КАРТОВЕДЪ 1.4.0 (Android и Windows) · 13.11.2026
 
 **RU**

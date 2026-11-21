@@ -14,9 +14,9 @@ Thousands of historical maps of Russia on your phone and computer: 18th-century 
 
 | Platform | Version | File | Requirements |
 |---|---|---|---|
-| **Android** | 1.4.0 | [**KARTOVED.apk**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED.apk) · 14.0 MB | Android 8.0+ |
-| **Windows** — installer | 1.4.0 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 127 MB | Windows 10/11, 64-bit |
-| **Windows** — portable | 1.4.0 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 MB | Windows 10/11, 64-bit |
+| **Android** | 1.5.0 | [**KARTOVED.apk**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED.apk) · 14.4 MB | Android 8.0+ |
+| **Windows** — installer | 1.5.0 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 127 MB | Windows 10/11, 64-bit |
+| **Windows** — portable | 1.5.0 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 MB | Windows 10/11, 64-bit |
 
 All versions and checksums are in [Releases](https://github.com/ignisdomini/kartoved/releases). The same files are available at [kartoved.ru/app.php](https://kartoved.ru/app.php).
 
@@ -44,7 +44,7 @@ This repository contains release builds and documentation only. The source code 
 
 **Instruments.** GNSS Compass (GPS, GLONASS, Galileo, BeiDou on an astrolabe with a position-quality verdict), 10-day weather with field tips, ARCHEOSCAN, APEX DSP.
 
-**New in 1.4.** "Archive here" — which archive maps cover this place (on the home map, in the catalogue and as a hint on the move); exchange waypoints, tracks and own maps with a PC or another phone — as a file or over Wi-Fi; in-app updates; ARCHEOSCAN with Sentinel-2 spectra; "Google satellite" base map; replies in chat.
+**New in 1.5.** Join prospecting organizations (MPR and FPPR) and an offline membership card; find report on the organization's form — PDF, DOC, print, e-mail; finds log with a "Finds" map layer and export to GPX, KML, KMZ, GeoJSON, CSV; place search by name and coordinates; "Forgot password?". Finds and reports stay on your device.
 
 **In the field.** Navigate to a point, track recording with the screen off, waypoints with photos, GPX / KML / KMZ, Russian coins reference, community chat and classifieds.
 
