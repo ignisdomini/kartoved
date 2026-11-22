@@ -15,8 +15,8 @@ Thousands of historical maps of Russia on your phone and computer: 18th-century 
 | Platform | Version | File | Requirements |
 |---|---|---|---|
 | **Android** | 1.5.0 | [**KARTOVED.apk**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED.apk) · 14.4 MB | Android 8.0+ |
-| **Windows** — installer | 1.5.0 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 127 MB | Windows 10/11, 64-bit |
-| **Windows** — portable | 1.5.0 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 MB | Windows 10/11, 64-bit |
+| **Windows** — installer | 1.5.1 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 127 MB | Windows 10/11, 64-bit |
+| **Windows** — portable | 1.5.1 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 MB | Windows 10/11, 64-bit |
 
 All versions and checksums are in [Releases](https://github.com/ignisdomini/kartoved/releases). The same files are available at [kartoved.ru/app.php](https://kartoved.ru/app.php).
 

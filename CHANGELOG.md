@@ -1,5 +1,11 @@
 # История версий · Changelog
 
+## Windows 1.5.1 · 22.11.2026
+
+**RU** В Кабинете виден раздел «Организации поисковиков» — вступление в МПР и ФППР и членский билет.
+
+**EN** The "Prospecting organizations" section is now shown in the Cabinet.
+
 ## КАРТОВЕДЪ 1.5.0 (Android и Windows) · 22.11.2026
 
 **RU**
