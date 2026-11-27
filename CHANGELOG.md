@@ -1,5 +1,11 @@
 # История версий · Changelog
 
+## КАРТОВЕДЪ 1.6.1 (Android и Windows) · 27.11.2026
+
+**RU** Читать и скачивать статьи и книги библиотеки — после входа (та же учётная запись, что на сайте, регистрация бесплатная); каталог, поиск и слой «Статьи» открыты всем. Приложение передаёт сессию само. Android: увеличенную страницу PDF можно двигать во все стороны; в Кабинете — «Скачанные статьи и книги».
+
+**EN** Reading and downloading library articles and books now requires signing in (free account); the catalog, search and the Articles layer stay open. The app passes the session automatically. Android: zoomed PDF pages can be panned in all directions; Cabinet gets Downloaded articles and books.
+
 ## КАРТОВЕДЪ 1.6.0 — Библиотека (Android и Windows) · 27.11.2026
 
 **RU**

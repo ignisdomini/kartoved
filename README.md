@@ -14,9 +14,9 @@
 
 | Платформа | Версия | Файл | Требования |
 |---|---|---|---|
-| **Android** | 1.6.0 | [**KARTOVED.apk**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED.apk) · 14,5 МБ | Android 8.0+ |
-| **Windows** — установщик | 1.6.0 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 127 МБ | Windows 10/11, 64 бит |
-| **Windows** — без установки | 1.6.0 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 МБ | Windows 10/11, 64 бит |
+| **Android** | 1.6.1 | [**KARTOVED.apk**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED.apk) · 14,5 МБ | Android 8.0+ |
+| **Windows** — установщик | 1.6.1 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 127 МБ | Windows 10/11, 64 бит |
+| **Windows** — без установки | 1.6.1 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 МБ | Windows 10/11, 64 бит |
 
 Все версии и контрольные суммы — в разделе [Релизы](https://github.com/ignisdomini/kartoved/releases). Те же файлы — на сайте [kartoved.ru/app.php](https://kartoved.ru/app.php).
 
