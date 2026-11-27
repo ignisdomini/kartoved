@@ -1,5 +1,11 @@
 # История версий · Changelog
 
+## Android 1.5.1 · Windows 1.5.2 · 27.11.2026
+
+**RU** Старинные карты стали на уровень чётче. На экранах высокой плотности (телефоны, мониторы с масштабом 150–200 %) приложение растягивало тайл на всю плотность экрана и показывало лист на уровень грубее, чем позволяет экран, — карта выглядела размытой. Теперь пиксель листа близок к пикселю экрана.
+
+**EN** Historical maps are one zoom level sharper. On high-density screens (phones, monitors at 150–200 % scaling) tiles were stretched by the full screen density, showing a sheet a level coarser than the screen allows. Now a sheet pixel is close to a screen pixel.
+
 ## Windows 1.5.1 · 22.11.2026
 
 **RU** В Кабинете виден раздел «Организации поисковиков» — вступление в МПР и ФППР и членский билет.
