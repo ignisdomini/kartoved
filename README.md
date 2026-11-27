@@ -14,9 +14,9 @@
 
 | Платформа | Версия | Файл | Требования |
 |---|---|---|---|
-| **Android** | 1.5.1 | [**KARTOVED.apk**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED.apk) · 14,4 МБ | Android 8.0+ |
-| **Windows** — установщик | 1.5.2 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 127 МБ | Windows 10/11, 64 бит |
-| **Windows** — без установки | 1.5.2 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 МБ | Windows 10/11, 64 бит |
+| **Android** | 1.6.0 | [**KARTOVED.apk**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED.apk) · 14,5 МБ | Android 8.0+ |
+| **Windows** — установщик | 1.6.0 | [**KARTOVED-Setup.exe**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Setup.exe) · 127 МБ | Windows 10/11, 64 бит |
+| **Windows** — без установки | 1.6.0 | [**KARTOVED-Portable.zip**](https://github.com/ignisdomini/kartoved/releases/latest/download/KARTOVED-Portable.zip) · 149 МБ | Windows 10/11, 64 бит |
 
 Все версии и контрольные суммы — в разделе [Релизы](https://github.com/ignisdomini/kartoved/releases). Те же файлы — на сайте [kartoved.ru/app.php](https://kartoved.ru/app.php).
 
@@ -43,6 +43,8 @@
 **Снимки Sentinel-2.** Естественные и ложные цвета, NDVI, NDRE, влажность почвы с 2017 года. По растительности видны следы засыпанных рвов, валов, дорог и фундаментов. Снимки обрабатываются на телефоне, ключи не нужны.
 
 **Приборы.** GPS Компас (GPS, ГЛОНАСС, Galileo, BeiDou на астролябии и оценка точности), погода на 10 дней с подсказками для поля, АРХЕОСКАН, APEX DSP.
+
+**Новое в 1.6 — Библиотека.** 35 200 научных статей о раскопках, кладах, монетах, старинных картах, исчезнувших сёлах и полях сражений и 2 167 старинных книг XVI — начала XX века; каталог без сети, PDF в приложении, слой «Статьи» на карте. На сайте: https://kartoved.ru/library.php
 
 **Новое в 1.5.** Вступление в организации поисковиков (МПР и ФППР) и членский билет без сети; заявление о находке по бланку организации — PDF, DOC, печать, почта; журнал находок со слоем «Находки» на карте и выгрузкой в GPX, KML, KMZ, GeoJSON, CSV; поиск места по названию и координатам; «Забыли пароль?». Находки и заявления хранятся только на устройстве.
 
